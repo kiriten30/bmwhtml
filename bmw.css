@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(bmwww.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+
+.top1 {
+    border-bottom: 1px solid white;
+
+    width: 55%;
+    margin-top: 15px;
+    margin-left: 120px;
+
+}
+
+.topright {
+    border: 1px solid black;
+    top: 102px;
+    right: 230px;
+    position: absolute;
+}
+
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    padding: 0px 30px;
+    font-size: large;
+    font-weight: 500;
+    color: beige;
+}
+
+.new{
+    left: 130px;
+    position: absolute;
+    font-size: xx-large;
+    color: beige;
+}
+
+.explore {
+    top: 200px;
+    left: 120px;
+    position: absolute;
+    border: auto solid red;
+    width: 11%;
+    margin-left: 100px;
+}
+.in {
+    padding: 10px;
+    font-size: larger;
+    font-weight: 800;
+}
+.explore2 {
+    top: 260px;
+    left: 120px;
+    position: absolute;
+    border: auto solid red;
+    width: 15%;
+    margin-left: 100px;
+
+}
+
+
+
+
+
